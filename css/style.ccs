@@ -1,0 +1,16 @@
+
+body {
+   background-color:lightpink;
+    text-align:center 
+    
+    ;
+}
+
+h1{
+    color:peru;
+    
+}
+
+p{
+    color:red
+}
